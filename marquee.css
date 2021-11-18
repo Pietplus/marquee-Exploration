@@ -1,0 +1,103 @@
+* {
+    font-family: 'Gothic A1', sans-serif !important;
+    background-color: white;
+    cursor: crosshair;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* h2 {
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(45deg, rgba(229, 255, 0, 0.8) 22%, rgba(24, 27, 225, 0.8) 55%);
+    border-radius: 86% 39% 41% 74% / 34% 32% 47% 87%;
+}
+
+h3 {
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(236,253,45,1) 100%);
+    border-radius: 41% 59% 41% 59% / 43% 45% 55% 57%;
+    transform: perspective(200px) rotateY(14deg);
+    perspective-origin: 25% 75%;
+} */
+
+marquee {
+
+    margin: 1rem;
+    padding: 1rem;
+    line-height: 2px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+  /* animation-name: 
+  animation-duration: 5000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+  /* transform: rotate(3deg); */
+   /* transform: rotate(0.3rad);/ */
+   /* transform: rotate(3grad); */ 
+   /* transform: rotate(.03turn);  */
+
+
+  /* width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s; */ */
+
+  
+  /* The element to apply the animation to */
+  
+    /* width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+    border-radius: 93% 10% 21% 103%
+   */
+  
+  
+/* @keyframes example {
+    0%   {background-color: rgb(230, 134, 184);}
+    25%  {background-color: rgb(252, 252, 152);}
+    50%  {background-color: rgb(150, 150, 196);}
+    100% {background-color: rgb(149, 181, 149);}
+  } */
+
+/* @keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(500deg);
+    }
+} */
+    /* -webkit-filter: blur(20px);
+    filter: blur(20px); */
+    
+    /* -webkit-filter: opacity:0.8;
+    opacity: 0.08; */
+
+    /* -webkit-filter: invert(40%); /* Chrome, Safari, Opera */
+    /* filter: invert(40%);  */
+
+    /* background: -moz-radial-gradient(center 45deg, circle closest-corner, #2f3b4b 0%, #3e4f63 100%);
+    background: -webkit-gradient(radial, center center, 10, center center, 900, from(#2f3b4b), to(#3e4f63)); */
+    
+   
+    
+    /* box-shadow: 1px 10px 100px 100px rgba(27, 255, 27,0.1); */
+
+#box {
+    
+    height: 5rem;
+    width: 5rem;
+    margin: 10rem;
+    background-color: rgba(255, 247, 0, 0.7);
+    outline: 1px solid hotpink;
+    border-radius: 15% 90% 1% 67%;
+}
